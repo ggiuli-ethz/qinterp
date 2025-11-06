@@ -10,7 +10,7 @@ packages = [
 ]
 
 [tool.poetry.dependencies]
-python = ">=3.9,<3.12"
+python = ">=3.12,<3.14"
 numpy = "^1.21.1"
 matplotlib = "^3.7.1"
 findiff = "^0.10.0"
