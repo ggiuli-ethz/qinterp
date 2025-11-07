@@ -11,7 +11,7 @@ packages = [
 
 [tool.poetry.dependencies]
 python = ">=3.12,<3.14"
-numpy = "^1.21.1"
+numpy = ">=2.0.0"
 matplotlib = "^3.7.1"
 findiff = "^0.10.0"
 
